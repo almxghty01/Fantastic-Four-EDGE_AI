@@ -49,7 +49,7 @@ Due to GitHub file size limitations, the trained model and full dataset are host
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/EdgeChip.git](https://github.com/YourUsername/EdgeChip.git)
+git clone (https://github.com/almxghty01/Fantastic-Four-EDGE_AI.git)
 cd EdgeChip
 
 ```
@@ -215,4 +215,5 @@ This project is intended for academic, research, and prototype demonstration pur
 
 ## Links 
 Google Drive Link :- https://drive.google.com/drive/folders/1yGo9V9he2NvyjBxd9tufG5nJOZ5qF9or?usp=sharing
+
 PPT pdf Link :- 
