@@ -216,4 +216,5 @@ This project is intended for academic, research, and prototype demonstration pur
 ## Links 
 Google Drive Link :- https://drive.google.com/drive/folders/1yGo9V9he2NvyjBxd9tufG5nJOZ5qF9or?usp=sharing
 
-PPT pdf Link :- 
+PPT pdf Link :- https://docs.google.com/presentation/d/1kyHE1GCk7SxPwgnbvgb6MCMtZdz4dh-e3C0gxzKx1Ys/edit?usp=sharing
+
